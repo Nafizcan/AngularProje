@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sorucevap-portali": {
+      "hosting": {
+        "proje01": [
+          "sorucevap-portali"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sorucevap-portali"
+  }
+}
